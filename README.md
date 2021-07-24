@@ -1,0 +1,2 @@
+# sandcoin
+My personal crytpocurrency
